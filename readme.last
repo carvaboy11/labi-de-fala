@@ -1,0 +1,43 @@
+
+# Laboratório de Exploração do Copiloto e Ferramentas da OpenAI
+
+## Descrição
+
+Neste laboratório, o objetivo foi explorar o funcionamento do Copiloto e das diversas ferramentas da OpenAI, com foco especial nos filtros de conteúdo e nos recursos de criação assistida por inteligência artificial.
+
+Durante as atividades, eu testei diferentes tipos de prompts, avaliei como o sistema responde em cenários variados e analisei de que forma os filtros de conteúdo atuam para garantir segurança e adequação nas respostas. Também experimentei recursos de assistência criativa, como a geração de textos, sugestões de código, reformulação de ideias e apoio à escrita.
+
+O principal objetivo foi entender na prática como essas ferramentas podem ser utilizadas de forma eficiente e ética, e como a inteligência artificial pode colaborar com o processo de criação de conteúdo e solução de problemas.
+
+Toda a prática está documentada neste repositório, que inclui exemplos de uso, anotações sobre os testes realizados e reflexões sobre os aprendizados adquiridos.
+
+## Tecnologias e Ferramentas Utilizadas
+
+Durante o laboratório, utilizei as seguintes ferramentas e plataformas:
+
+- GitHub Copilot
+- OpenAI API (ChatGPT, Codex)
+- Plataforma da OpenAI para testes diretos com prompts
+- Visual Studio Code como ambiente para testes de programação assistida
+
+## O que foi realizado
+
+Para começar, explorei o funcionamento do GitHub Copilot dentro do Visual Studio Code, observando como ele sugere trechos de código, corrige erros e até propõe novas abordagens para problemas de programação.
+
+Em paralelo, utilizei a API da OpenAI para testar a criação de conteúdo textual, focando na elaboração de prompts claros e eficazes. Realizei testes com prompts criativos, técnicos e de linguagem natural, observando como pequenas mudanças no pedido podem impactar bastante a resposta gerada.
+
+Uma parte importante da prática foi testar os filtros de conteúdo: provoquei situações em que o sistema precisava reconhecer pedidos inadequados ou sensíveis, para verificar como os filtros de segurança entravam em ação.
+
+Ao longo da prática, fui registrando exemplos de interações interessantes, falhas percebidas, boas práticas de formulação de prompts e sugestões de uso responsável da tecnologia.
+
+
+
+## Objetivos de Aprendizado
+
+Com este laboratório, busquei alcançar os seguintes objetivos:
+
+- Entender na prática como funcionam o GitHub Copilot e as APIs da OpenAI.
+- Aprender a criar prompts mais claros, eficientes e seguros.
+- Avaliar como os filtros de conteúdo atuam para garantir o uso ético da IA.
+- Criar uma base de conhecimentos que possa ser aplicada futuramente em projetos que envolvam inteligência artificial assistida.
+
